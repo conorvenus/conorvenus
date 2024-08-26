@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Conor Venus, a software developer from the United Kingdom with several years of self-taught programming experience, formalising and advancing my education at Queen Mary University of London, with a **BSc (Hons) Computer Science**, where I am expected to graduate 06/2025.
+🎓 I am Conor Venus, a software developer from the United Kingdom with nearly a decade of self-taught programming experience, formalising and advancing my education at Queen Mary University of London, with a **BSc (Hons) Computer Science**, where I am expected to graduate 06/2025.
 
 ## 🏅 Achievements
 
--   🏆 Awarded the First-Year Prize for School of EECS at QMUL (07/2023)
--   🏆 Awarded the Annual Fund Scholarship for School of EECS at QMUL (10/2023)
--   🏆 Awarded the Second-Year Prize for School of EECS at QMUL (07/2024)
+-   🏆 Awarded the **First-Year Prize** for School of EECS at QMUL (07/2023)
+-   🏆 Awarded the **Annual Fund Performance Scholarship** for School of EECS at QMUL (10/2023)
+-   🏆 Awarded the **Second-Year Prize** for School of EECS at QMUL (07/2024)
 
 ## 🛠️ Skills
 
