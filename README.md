@@ -7,6 +7,8 @@
 ## 🏅 Achievements
 
 -   🏆 Awarded the First-Year Prize for School of EECS at QMUL (07/2023)
+-   🏆 Awarded the Annual Fund Scholarship for School of EECS at QMUL (10/2023)
+-   🏆 Awarded the Second-Year Prize for School of EECS at QMUL (07/2024)
 
 ## 🛠️ Skills
 
